@@ -45,7 +45,7 @@ Let’s understand it further that why Move 1 is the best move:
 * As move 1 leads to computer’s win i.e. end of the game, giving +1(maximum score) as its score, on the other hand, move 2 and 3 generate 2.1, 2.2, 3.1 and 3.3 moves respectively and recursively call Minimax.
 * Move 2.1 adds -1 to move 2’s score and move 3.1 adds -1 to move 3’s score as the opposite wins(minimum score).
 * Moves 2.2 and 3.2 generate the last possible moves 2.3 and 3.3 respectively which adds +1 to moves 2 and 3 respectively (as computer wins in both cases).
-* And since 2.1 and 2.2 are opposite player’s turn, it selects minimum score from (-1, +1) and same goes for 3.1 and 3.2. <br/>
+* And since 2.1 and 2.2 are opposite player’s turn, it selects minimum score from (-1, +1) and same goes for 3.1 and 3.2. <br/> <br/>
 **So, the ultimate scores for 1, 2, and 3 are +1, -1, and -1 respectively; therefore, the best move for the given state of game is move 1.** <br/><br/>
 In simple words, a list of every possible moves and the ultimate score is created given a state of game like above; and the move with the maximum ultimate score is selected. <br/>
 # Further Improvement In Minimax
