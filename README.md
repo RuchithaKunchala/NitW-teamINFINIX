@@ -56,6 +56,17 @@ The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** t
 * Alpha-Beta pruning is added along with the minimax code.
 * Back button is provided to navigate through the game menu.
 
+# Resources and Reading Materials 
+* https://learn.unity.com/tutorial/creating-a-tic-tac-toe-game-using-only-ui-components#5c7f8528edbc2a002053b4be<br/>
+* https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/<br/>
+* https://www.youtube.com/playlist?list=PLkzh1bySTmYB83ybePBUtsP4t0DAdspiw <br/>
+* https://www.javatpoint.com/mini-max-algorithm-in-ai<br/>
+* https://channel9.msdn.com/Blogs/cdndevs/Hosting-Unity-WebGL-games-on-Azure<br/>
+* https://www.youtube.com/watch?v=trKjYdBASyQ&vl=en<br/>
+* https://techcommunity.microsoft.com/t5/educator-developer-blog/hosting-your-unity-game-on-azure/ba-p/379490<br/> 
+
+
+
 
 ## Team Members
 * Alisha Vinod
@@ -63,13 +74,4 @@ The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** t
 * Tanvi Shekar
 * Yashoda Devi Sree
 <br/>
-## Resources and Reading Materials 
 
-* https://learn.unity.com/tutorial/creating-a-tic-tac-toe-game-using-only-ui-components#5c7f8528edbc2a002053b4be<br/>
-* https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/<br/>
-* https://www.youtube.com/playlist?list=PLkzh1bySTmYB83ybePBUtsP4t0DAdspiw <br/>
-* https://towardsdatascience.com/how-a-chess-playing-computer-thinks-about-its-next-move-8f028bd0e7b1<br/>
-* https://www.javatpoint.com/mini-max-algorithm-in-ai<br/>
-* https://channel9.msdn.com/Blogs/cdndevs/Hosting-Unity-WebGL-games-on-Azure<br/>
-* https://techcommunity.microsoft.com/t5/educator-developer-blog/hosting-your-unity-game-on-azure/ba-p/379490<br/> 
-* https://www.youtube.com/watch?v=trKjYdBASyQ&vl=en<br/>
