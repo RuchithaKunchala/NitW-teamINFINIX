@@ -11,9 +11,9 @@ Mini-max algorithm is a recursive or backtracking algorithm which is used in dec
 Two players: 
 * **Maximizer**
 * **Minimizer** <br/>
-Maximizer tries to maximize the chances of winning and Minimizer tries to minimize the chances of Maximizer's winning.
-If player X can win in one move, their best move is that winning move. If player O knows that one move will lead to the situation where player X can win in one move, while another move will lead to the situation where player X can, at best, draw, then player B's best move is the one leading to a draw. Later in the game, it's easy to see what the "best" move is. The Minimax algorithm helps find the best move, by working backwards from the end of the game. At each step it assumes that player X is trying to maximize the chances of X winning, while on the next turn player O is trying to minimize the chances of X winning (i.e., to maximize O's own chances of winning).
-With respect to the implementation of this project, when it’s computer’s turn, with every move it adds +1 if win, -1 if lose and 0 if draw, and selects the move with maximum score.
+Maximizer tries to maximize the chances of winning and Minimizer tries to minimize the chances of Maximizer's winning.<br/>
+If player X can win in one move, their best move is that winning move. If player O knows that one move will lead to the situation where player X can win in one move, while another move will lead to the situation where player X can, at best, draw, then player B's best move is the one leading to a draw. Later in the game, it's easy to see what the "best" move is. The Minimax algorithm helps find the best move, by working backwards from the end of the game. At each step it assumes that player X is trying to maximize the chances of X winning, while on the next turn player O is trying to minimize the chances of X winning (i.e., to maximize O's own chances of winning).<br/>
+With respect to the implementation of this project, when it’s computer’s turn, with every move it adds +1 if win, -1 if lose and 0 if draw, and selects the move with maximum score.<br/>
 
 *function minimax(count, depth, current_player)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;if computer won*<br/>
