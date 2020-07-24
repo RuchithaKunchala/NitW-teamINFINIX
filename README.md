@@ -49,7 +49,7 @@ In simple words, a list of every possible moves and the ultimate score is create
 # Further Improvement In Minimax
 The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** to the code. It is an optimization technique almost same as the minimax algotithm. With this, the search time can be limited to the 'more promising' subtree, and a deeper search can be performed in the same time. But at the end both Minimax and Alpha-Beta pruning gives the same result.
 
-# Features added to the Game
+# Extra features added to the Game
 * Hints to make decisions on next move.
 * Score board to add competition between players.
 * Play with AI in 5 different levels.
