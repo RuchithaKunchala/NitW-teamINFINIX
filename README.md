@@ -35,7 +35,7 @@ With respect to the implementation of this project, when it’s computer’s tur
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minValue = min(minValue, score)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return min value<br/>*
 
-Consider the following state of game (first grid) and assuming its computer’s turn (i.e. in this case, Computer is X), the best move according to the algorithm will be the first move (Move 1)
+Consider the following state of game (first grid) and assuming its computer’s turn (i.e. in this case, Computer is X), the best move according to the algorithm will be the first move (Move 1)<br/>
 ![Minimax](https://user-images.githubusercontent.com/60230072/88391922-bc0fbf00-cdd8-11ea-916f-1bab4998b297.png)
 
 Let’s understand it further that why Move 1 is the best move:
