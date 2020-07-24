@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Using Minimax
-Implementation of the Minimax Algotithm to build an unbeatable TIC TAC TOE game powered by AI. <br/>
+Implementation of the Minimax Algorithm to build an unbeatable TIC TAC TOE game powered by AI. <br/>
 Click Here :point_right: https://tanvishekhar.github.io/TicTacToe/index.html to play the Game
 
 
@@ -49,7 +49,7 @@ Let’s understand it further that why Move 1 is the best move:
 **So, the ultimate scores for 1, 2, and 3 are +1, -1, and -1 respectively; therefore, the best move for the given state of game is move 1.** <br/>
 In simple words, a list of every possible moves and the ultimate score is created given a state of game like above; and the move with the maximum ultimate score is selected. <br/>
 # Further Improvement In Minimax
-The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** to the code. It is an optimization technique almost same as the minimax algotithm. With this, the search time can be limited to the 'more promising' subtree, and a deeper search can be performed in the same time. But at the end both Minimax and Alpha-Beta pruning gives the same result.
+The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** to the code. It is an optimization technique almost same as the minimax algorithm. With this, the search time can be limited to the 'more promising' subtree, and a deeper search can be performed in the same time. But at the end both Minimax and Alpha-Beta pruning gives the same result.
 
 # Extra features added to the Game
 * Hints to make decisions on next move.
