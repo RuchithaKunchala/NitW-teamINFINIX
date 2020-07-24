@@ -63,7 +63,7 @@ The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** t
 * Tanvi Shekar
 * Yashoda Devi Sree
 <br/>
-## Resources and Reading Materials<br/>
+## Resources and Reading Materials <
 * https://learn.unity.com/tutorial/creating-a-tic-tac-toe-game-using-only-ui-components#5c7f8528edbc2a002053b4be<br/>
 * https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/<br/>
 * https://www.youtube.com/playlist?list=PLkzh1bySTmYB83ybePBUtsP4t0DAdspiw <br/>
