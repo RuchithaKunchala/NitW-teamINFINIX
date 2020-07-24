@@ -54,7 +54,7 @@ The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** t
 * Score board to add competition between players.
 * Play with AI in 5 different levels.
 * Alpha-Beta pruning is added along with the minimax code.
-* Back button is provided to help the player to change the depth of the game or choosing the opponent.
+* Back button is provided to navigate through the game menu.
 
 
 ## Team Members
