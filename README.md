@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Using Minimax
-Implementation of the Minimax Algotithm to build an unbeatable TIC TAC TOE game powered by AI.
+Implementation of the Minimax Algotithm to build an unbeatable TIC TAC TOE game powered by AI. <br/>
+Click Here :point_right: https://tanvishekhar.github.io/TicTacToe/ to play the Game
+
 
 # About the Game
 Tic-tac-toe, also known as noughts and crosses or Xs and Os is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. In order to win the game, a player must place three of their marks in a horizontal, vertical, or diagonal row. Players soon discover that the best play from both players leads to draw. This game is very well known as we all used to play in childhood. Some may call it " SOS " game.
