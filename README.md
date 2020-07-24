@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Using Minimax
 Implementation of the Minimax Algotithm to build an unbeatable TIC TAC TOE game powered by AI. <br/>
-Click Here :point_right: https://tanvishekhar.github.io/TicTacToe/ to play the Game
+Click Here :point_right: https://tanvishekhar.github.io/TicTacToe/index.html to play the Game
 
 
 # About the Game
