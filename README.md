@@ -46,7 +46,7 @@ Let’s understand it further that why Move 1 is the best move:
 * Move 2.1 adds -1 to move 2’s score and move 3.1 adds -1 to move 3’s score as the opposite wins(minimum score).
 * Moves 2.2 and 3.2 generate the last possible moves 2.3 and 3.3 respectively which adds +1 to moves 2 and 3 respectively (as computer wins in both cases).
 * And since 2.1 and 2.2 are opposite player’s turn, it selects minimum score from (-1, +1) and same goes for 3.1 and 3.2. <br/> <br/>
-**So, the ultimate scores for 1, 2, and 3 are +1, -1, and -1 respectively; therefore, the best move for the given state of game is move 1.** <br/><br/>
+**So, the ultimate scores for 1, 2, and 3 are +1, -1, and -1 respectively; therefore, the best move for the given state of game is move 1.** <br/>
 In simple words, a list of every possible moves and the ultimate score is created given a state of game like above; and the move with the maximum ultimate score is selected. <br/>
 # Further Improvement In Minimax
 The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** to the code. It is an optimization technique almost same as the minimax algotithm. With this, the search time can be limited to the 'more promising' subtree, and a deeper search can be performed in the same time. But at the end both Minimax and Alpha-Beta pruning gives the same result.
