@@ -71,7 +71,7 @@ The Minimax Algorithm can be further improved by adding **Alpha-Beta Pruning** t
 
 ## Team Members
 * Alisha Vinod
-* Kunchala Ruchitha
+* Ruchitha Kunchala 
 * Tanvi Shekar
 * Yashoda Devi Sree
 <br/>
